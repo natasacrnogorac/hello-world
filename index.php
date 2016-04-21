@@ -7,4 +7,3 @@
  */
 
 echo phpInfo();
-echo "Master new version";
